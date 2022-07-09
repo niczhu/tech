@@ -1,7 +1,5 @@
-
-
-import { defineUserConfig } from "vuepress";
-import theme from "./theme";
+import { defineUserConfig } from "vuepress"
+import theme from "./theme"
 import { searchPlugin } from "@vuepress/plugin-search"
 
 export default defineUserConfig({
@@ -23,4 +21,3 @@ export default defineUserConfig({
     }),
   ],
 });
-
