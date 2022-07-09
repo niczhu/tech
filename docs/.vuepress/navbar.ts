@@ -4,7 +4,6 @@ export default navbar([
   "/",
   "/home",
   { text: "使用指南", icon: "creative", link: "/guide/" },
-  { text: "技术文章", icon: "java", link: "/article/" },
   {
     text: "博文",
     icon: "edit",
@@ -46,14 +45,8 @@ export default navbar([
     ],
   },
   {
-    text: "读好书",
-    icon: "read",
-    link: "http://www.baidu.com",
-  },
-  {
-    text: "写好字",
+    text: "主题文档",
     icon: "note",
-    link: "/",
+    link: "https://vuepress-theme-hope.github.io/v2/zh/",
   },
 ]);
-

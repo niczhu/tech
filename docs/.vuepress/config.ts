@@ -1,6 +1,4 @@
-
-
-import { defineUserConfig } from "vuepress";
+mport { defineUserConfig } from "vuepress";
 import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search"
 

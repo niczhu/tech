@@ -2,12 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 主页
+title: 博客主页
 heroImage: /logo.svg
-heroText: 寻求答案等于让他人帮你做选择
+heroText: 你博客的名称
 heroFullScreen: true
-
-tagline: 口号与标语：为了选择世人的认可以及前辈们的赞同而去寻求答案，那么世人以及前辈就会限制你们的视野！
+tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
     name: 项目名称
@@ -39,7 +38,7 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 我是有底线的
+footer: 自定义你的页脚文字
 ---
 
 这是一个博客主页的案例。
@@ -47,8 +46,3 @@ footer: 我是有底线的
 要使用此布局，你应该在页面前端设置 `layout: Blog` 和 `home: true`。
 
 相关配置文档请见 [博客主页](https://vuepress-theme-hope.github.io/v2/zh/guide/blog/home/)。
-
-寻求答案就等于让他人帮你做选择， 而放弃了自己的选择！为了选择世人的认可以及前辈们的赞同而去寻求答案，那么世人以及前辈就会限制你们的视野！
-背景图片：# bgImage: xxx
-
-
